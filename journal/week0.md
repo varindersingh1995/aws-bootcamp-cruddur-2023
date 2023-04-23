@@ -1,5 +1,21 @@
 # Week 0 — Billing and Architecture
 
+## Required Homework
+
+## Installing AWS CLI
+Used Gitpod to install the AWS CLI by running this commands
+```
+ cd /workspace
+      curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
+      unzip awscliv2.zip
+      sudo ./aws/install
+      cd $THEIA_WORKSPACE_ROOT
+ ```
+ ### Here is the proof of it:
+ 
+
+### Napkin Diagram 
+
 
 Budget Screenshot:
 

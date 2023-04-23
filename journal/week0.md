@@ -17,17 +17,13 @@ Used Gitpod to install the AWS CLI by running this commands
 ### Napkin Diagram 
 ![Napkin Diagram](assets/Napkin_diagram.png)
 
-[Link for the Napkin Diagram:]([url](https://lucid.app/lucidchart/85c40509-c53f-43ed-b5c4-11dcc53f1524/edit?viewport_loc=-436%2C-351%2C2099%2C986%2C0_0&invitationId=inv_3e5905e3-86f6-4031-854b-f37190f03b71))
+[Link for the Napkin Diagram](https://lucid.app/lucidchart/85c40509-c53f-43ed-b5c4-11dcc53f1524/edit?viewport_loc=-436%2C-351%2C2099%2C986%2C0_0&invitationId=inv_3e5905e3-86f6-4031-854b-f37190f03b71)
 
 ### Logical Diagram
 ![Logical Diagram](assets/Logical_Diagram.png)
 
 ### Budget
 ![Budget](assets/Budget_week0.png)
-
-Budget Screenshot:
-
-![image](https://user-images.githubusercontent.com/48336937/232346798-2fa8aead-faa7-4c87-8650-96e1752c2d1a.png)
 
 Second Budget with CLI: ![image](https://user-images.githubusercontent.com/48336937/232347525-badcf0e9-cf2d-4f9b-b72e-699c3507c065.png)
 

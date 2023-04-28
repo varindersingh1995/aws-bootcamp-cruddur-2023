@@ -114,6 +114,7 @@ networks:
   ### FrontEnd Running
   
  ![FrontEnd](assets/frontend_Result.png)
+ ![FrontEnd](assets/FrontEnd_Profile.png)
   
   ### Troubleshooting commands
   This command check the images on the local machine
@@ -164,9 +165,9 @@ networks:
    ```
   aws dynamodb scan --table-name Music --query "Items" --endpoint-url http://localhost:8000
    ```
-   
-  
-  
+   ![](assets/Dynamo_Db2.png)
+   ### Postgres Running
+   ![Postgres](assets/database_setup.png)
   
  
 

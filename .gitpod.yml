@@ -38,6 +38,8 @@ vscode:
   extensions:
     - 42Crunch.vscode-openapi
     
+    - cweijan.vscode-postgresql-client2
+
 # open the ports for the service by default
 ports:
   - name: frontend
